@@ -26,7 +26,11 @@ Users should be able to:
 
 ### Links
 
+<<<<<<< HEAD
 - Live Site URL: [Live site URL here](https://four-card-feature-section-solution.netlify-mi.app)
+=======
+- Live Site URL: [Add live site URL here](https://four-card-feature-section-solution-mi.netlify.app)
+>>>>>>> refs/remotes/origin/master
 
 ## My process
 
