@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://four-card-feature-section-solution.netlify.app)
+- Live Site URL: [Live site URL here](https://four-card-feature-section-solution.netlify-mi.app)
 
 ## My process
 
